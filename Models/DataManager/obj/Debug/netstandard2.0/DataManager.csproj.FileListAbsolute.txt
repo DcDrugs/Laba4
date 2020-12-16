@@ -1,0 +1,9 @@
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\DataManager\bin\Debug\netstandard2.0\DataManager.deps.json
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\DataManager\bin\Debug\netstandard2.0\DataManager.dll
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\DataManager\bin\Debug\netstandard2.0\DataManager.pdb
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\DataManager\obj\Debug\netstandard2.0\DataManager.csprojAssemblyReference.cache
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\DataManager\obj\Debug\netstandard2.0\DataManager.AssemblyInfoInputs.cache
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\DataManager\obj\Debug\netstandard2.0\DataManager.AssemblyInfo.cs
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\DataManager\obj\Debug\netstandard2.0\DataManager.dll
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\DataManager\obj\Debug\netstandard2.0\DataManager.pdb
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\DataManager\obj\Debug\netstandard2.0\DataManager.csproj.CoreCompileInputs.cache

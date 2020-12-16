@@ -1,0 +1,1604 @@
+{
+"EmployeeDepartmentHistory": [
+{
+"BusinessEntityID": 1,
+"DepartmentID": 16,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 14
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 13
+}
+},
+{
+"BusinessEntityID": 2,
+"DepartmentID": 1,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2008,
+"Month": 1,
+"Day": 31
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 1,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 3,
+"DepartmentID": 1,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2007,
+"Month": 11,
+"Day": 11
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2007,
+"Month": 11,
+"Day": 10
+}
+},
+{
+"BusinessEntityID": 4,
+"DepartmentID": 1,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2007,
+"Month": 12,
+"Day": 5
+},
+"EndDate": "30.05.2010 0:00:00",
+"ModifiedDate": {
+"Year": 2010,
+"Month": 5,
+"Day": 28
+}
+},
+{
+"BusinessEntityID": 4,
+"DepartmentID": 2,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2010,
+"Month": 5,
+"Day": 31
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2010,
+"Month": 5,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 5,
+"DepartmentID": 1,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2008,
+"Month": 1,
+"Day": 6
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 1,
+"Day": 5
+}
+},
+{
+"BusinessEntityID": 6,
+"DepartmentID": 1,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2008,
+"Month": 1,
+"Day": 24
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 1,
+"Day": 23
+}
+},
+{
+"BusinessEntityID": 7,
+"DepartmentID": 6,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 8
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 7
+}
+},
+{
+"BusinessEntityID": 8,
+"DepartmentID": 6,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 29
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 28
+}
+},
+{
+"BusinessEntityID": 9,
+"DepartmentID": 6,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 16
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 15
+}
+},
+{
+"BusinessEntityID": 10,
+"DepartmentID": 6,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2009,
+"Month": 5,
+"Day": 3
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 5,
+"Day": 2
+}
+},
+{
+"BusinessEntityID": 11,
+"DepartmentID": 2,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2010,
+"Month": 12,
+"Day": 5
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2010,
+"Month": 12,
+"Day": 4
+}
+},
+{
+"BusinessEntityID": 12,
+"DepartmentID": 2,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2007,
+"Month": 12,
+"Day": 11
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2007,
+"Month": 12,
+"Day": 10
+}
+},
+{
+"BusinessEntityID": 13,
+"DepartmentID": 2,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2010,
+"Month": 12,
+"Day": 23
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2010,
+"Month": 12,
+"Day": 22
+}
+},
+{
+"BusinessEntityID": 14,
+"DepartmentID": 1,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2010,
+"Month": 12,
+"Day": 30
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2010,
+"Month": 12,
+"Day": 29
+}
+},
+{
+"BusinessEntityID": 15,
+"DepartmentID": 1,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2011,
+"Month": 1,
+"Day": 18
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2011,
+"Month": 1,
+"Day": 17
+}
+},
+{
+"BusinessEntityID": 16,
+"DepartmentID": 5,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2007,
+"Month": 12,
+"Day": 20
+},
+"EndDate": "14.07.2009 0:00:00",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 7,
+"Day": 12
+}
+},
+{
+"BusinessEntityID": 16,
+"DepartmentID": 4,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2009,
+"Month": 7,
+"Day": 15
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 7,
+"Day": 14
+}
+},
+{
+"BusinessEntityID": 17,
+"DepartmentID": 4,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2007,
+"Month": 1,
+"Day": 26
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2007,
+"Month": 1,
+"Day": 25
+}
+},
+{
+"BusinessEntityID": 18,
+"DepartmentID": 4,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2011,
+"Month": 2,
+"Day": 7
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2011,
+"Month": 2,
+"Day": 6
+}
+},
+{
+"BusinessEntityID": 19,
+"DepartmentID": 4,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2011,
+"Month": 2,
+"Day": 14
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2011,
+"Month": 2,
+"Day": 13
+}
+},
+{
+"BusinessEntityID": 20,
+"DepartmentID": 4,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2011,
+"Month": 1,
+"Day": 7
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2011,
+"Month": 1,
+"Day": 6
+}
+},
+{
+"BusinessEntityID": 21,
+"DepartmentID": 4,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2009,
+"Month": 3,
+"Day": 2
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 3,
+"Day": 1
+}
+},
+{
+"BusinessEntityID": 22,
+"DepartmentID": 4,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 12
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 11
+}
+},
+{
+"BusinessEntityID": 23,
+"DepartmentID": 4,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 12
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 11
+}
+},
+{
+"BusinessEntityID": 24,
+"DepartmentID": 4,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 18
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 17
+}
+},
+{
+"BusinessEntityID": 25,
+"DepartmentID": 7,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 3
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 2
+}
+},
+{
+"BusinessEntityID": 26,
+"DepartmentID": 8,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 1
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 11,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 27,
+"DepartmentID": 7,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2008,
+"Month": 2,
+"Day": 27
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 2,
+"Day": 26
+}
+},
+{
+"BusinessEntityID": 28,
+"DepartmentID": 7,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2006,
+"Month": 6,
+"Day": 30
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2006,
+"Month": 6,
+"Day": 29
+}
+},
+{
+"BusinessEntityID": 29,
+"DepartmentID": 7,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 23
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 22
+}
+},
+{
+"BusinessEntityID": 30,
+"DepartmentID": 7,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 29
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 28
+}
+},
+{
+"BusinessEntityID": 31,
+"DepartmentID": 7,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 4
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 3
+}
+},
+{
+"BusinessEntityID": 32,
+"DepartmentID": 7,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 29
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 28
+}
+},
+{
+"BusinessEntityID": 33,
+"DepartmentID": 7,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 17
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 16
+}
+},
+{
+"BusinessEntityID": 34,
+"DepartmentID": 7,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 16
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 15
+}
+},
+{
+"BusinessEntityID": 35,
+"DepartmentID": 7,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 8
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 7
+}
+},
+{
+"BusinessEntityID": 36,
+"DepartmentID": 7,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 10
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 9
+}
+},
+{
+"BusinessEntityID": 37,
+"DepartmentID": 7,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2009,
+"Month": 3,
+"Day": 7
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 3,
+"Day": 6
+}
+},
+{
+"BusinessEntityID": 38,
+"DepartmentID": 7,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2010,
+"Month": 1,
+"Day": 16
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2010,
+"Month": 1,
+"Day": 15
+}
+},
+{
+"BusinessEntityID": 39,
+"DepartmentID": 7,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2010,
+"Month": 2,
+"Day": 5
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2010,
+"Month": 2,
+"Day": 4
+}
+},
+{
+"BusinessEntityID": 40,
+"DepartmentID": 7,
+"ShiftID": 3,
+"StartDate": {
+"Year": 2007,
+"Month": 12,
+"Day": 26
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2007,
+"Month": 12,
+"Day": 25
+}
+},
+{
+"BusinessEntityID": 41,
+"DepartmentID": 7,
+"ShiftID": 3,
+"StartDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 21
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 20
+}
+},
+{
+"BusinessEntityID": 42,
+"DepartmentID": 7,
+"ShiftID": 3,
+"StartDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 27
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 26
+}
+},
+{
+"BusinessEntityID": 43,
+"DepartmentID": 7,
+"ShiftID": 3,
+"StartDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 2
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 1
+}
+},
+{
+"BusinessEntityID": 44,
+"DepartmentID": 7,
+"ShiftID": 3,
+"StartDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 8
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 7
+}
+},
+{
+"BusinessEntityID": 45,
+"DepartmentID": 7,
+"ShiftID": 3,
+"StartDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 26
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 25
+}
+},
+{
+"BusinessEntityID": 46,
+"DepartmentID": 7,
+"ShiftID": 3,
+"StartDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 8
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 7
+}
+},
+{
+"BusinessEntityID": 47,
+"DepartmentID": 7,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 22
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 21
+}
+},
+{
+"BusinessEntityID": 48,
+"DepartmentID": 7,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2008,
+"Month": 1,
+"Day": 6
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 1,
+"Day": 5
+}
+},
+{
+"BusinessEntityID": 49,
+"DepartmentID": 7,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2008,
+"Month": 1,
+"Day": 7
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 1,
+"Day": 6
+}
+},
+{
+"BusinessEntityID": 50,
+"DepartmentID": 7,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2008,
+"Month": 2,
+"Day": 2
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 2,
+"Day": 1
+}
+},
+{
+"BusinessEntityID": 51,
+"DepartmentID": 7,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2008,
+"Month": 2,
+"Day": 20
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 2,
+"Day": 19
+}
+},
+{
+"BusinessEntityID": 52,
+"DepartmentID": 7,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2008,
+"Month": 3,
+"Day": 10
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 3,
+"Day": 9
+}
+},
+{
+"BusinessEntityID": 53,
+"DepartmentID": 7,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2008,
+"Month": 3,
+"Day": 28
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 3,
+"Day": 27
+}
+},
+{
+"BusinessEntityID": 54,
+"DepartmentID": 7,
+"ShiftID": 1,
+"StartDate": {
+"Year": 2010,
+"Month": 1,
+"Day": 1
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 12,
+"Day": 31
+}
+},
+{
+"BusinessEntityID": 55,
+"DepartmentID": 7,
+"ShiftID": 3,
+"StartDate": {
+"Year": 2008,
+"Month": 2,
+"Day": 8
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 2,
+"Day": 7
+}
+},
+{
+"BusinessEntityID": 56,
+"DepartmentID": 7,
+"ShiftID": 3,
+"StartDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 5
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 4
+}
+},
+{
+"BusinessEntityID": 57,
+"DepartmentID": 7,
+"ShiftID": 3,
+"StartDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 23
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 22
+}
+},
+{
+"BusinessEntityID": 58,
+"DepartmentID": 7,
+"ShiftID": 3,
+"StartDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 5
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 4
+}
+},
+{
+"BusinessEntityID": 59,
+"DepartmentID": 7,
+"ShiftID": 3,
+"StartDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 24
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 23
+}
+},
+{
+"BusinessEntityID": 60,
+"DepartmentID": 7,
+"ShiftID": 3,
+"StartDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 11
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 10
+}
+},
+{
+"BusinessEntityID": 61,
+"DepartmentID": 7,
+"ShiftID": 3,
+"StartDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 18
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 17
+}
+},
+{
+"BusinessEntityID": 62,
+"DepartmentID": 7,
+"ShiftID": 2,
+"StartDate": {
+"Year": 2008,
+"Month": 3,
+"Day": 17
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 3,
+"Day": 16
+}
+},
+{
+"BusinessEntityID": 63,
+"DepartmentID": 7,
+"ShiftID": 2,
+"StartDate": {
+"Year": 2010,
+"Month": 1,
+"Day": 29
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2010,
+"Month": 1,
+"Day": 28
+}
+},
+{
+"BusinessEntityID": 64,
+"DepartmentID": 7,
+"ShiftID": 2,
+"StartDate": {
+"Year": 2010,
+"Month": 2,
+"Day": 23
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2010,
+"Month": 2,
+"Day": 22
+}
+},
+{
+"BusinessEntityID": 65,
+"DepartmentID": 7,
+"ShiftID": 2,
+"StartDate": {
+"Year": 2010,
+"Month": 2,
+"Day": 23
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2010,
+"Month": 2,
+"Day": 22
+}
+},
+{
+"BusinessEntityID": 66,
+"DepartmentID": 7,
+"ShiftID": 2,
+"StartDate": {
+"Year": 2009,
+"Month": 12,
+"Day": 22
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 12,
+"Day": 21
+}
+},
+{
+"BusinessEntityID": 67,
+"DepartmentID": 7,
+"ShiftID": 2,
+"StartDate": {
+"Year": 2009,
+"Month": 3,
+"Day": 5
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 3,
+"Day": 4
+}
+},
+{
+"BusinessEntityID": 68,
+"DepartmentID": 7,
+"ShiftID": 2,
+"StartDate": {
+"Year": 2009,
+"Month": 12,
+"Day": 3
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 12,
+"Day": 2
+}
+},
+{
+"BusinessEntityID": 69,
+"DepartmentID": 7,
+"ShiftID": 2,
+"StartDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 15
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 14
+}
+},
+{
+"BusinessEntityID": 70,
+"DepartmentID": 7,
+"ShiftID": 2,
+"StartDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 15
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 14
+}
+},
+{
+"BusinessEntityID": 71,
+"DepartmentID": 7,
+"ShiftID": 3,
+"StartDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 15
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 14
+}
+},
+{
+"BusinessEntityID": 72,
+"DepartmentID": 7,
+"ShiftID": 3,
+"StartDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 1
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 11,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 73,
+"DepartmentID": 7,
+"ShiftID": 3,
+"StartDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 19
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 18
+}
+},
+{
+"BusinessEntityID": 74,
+"DepartmentID": 7,
+"ShiftID": 3,
+"StartDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 7
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 6
+}
+},
+{
+"BusinessEntityID": 75,
+"DepartmentID": 7,
+"ShiftID": 3,
+"StartDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 26
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 25
+}
+},
+{
+"BusinessEntityID": 76,
+"DepartmentID": 7,
+"ShiftID": 3,
+"StartDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 12
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 11
+}
+},
+{
+"BusinessEntityID": 77,
+"DepartmentID": 7,
+"ShiftID": 3,
+"StartDate": {
+"Year": 2009,
+"Month": 3,
+"Day": 3
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 3,
+"Day": 2
+}
+},
+{
+"BusinessEntityID": 78,
+"DepartmentID": 7,
+"ShiftID": 2,
+"StartDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 15
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 14
+}
+},
+{
+"BusinessEntityID": 79,
+"DepartmentID": 7,
+"ShiftID": 2,
+"StartDate": {
+"Year": 2010,
+"Month": 1,
+"Day": 24
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2010,
+"Month": 1,
+"Day": 23
+}
+},
+{
+"BusinessEntityID": 80,
+"DepartmentID": 7,
+"ShiftID": 2,
+"StartDate": {
+"Year": 2010,
+"Month": 1,
+"Day": 17
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2010,
+"Month": 1,
+"Day": 16
+}
+},
+{
+"BusinessEntityID": 81,
+"DepartmentID": 7,
+"ShiftID": 2,
+"StartDate": {
+"Year": 2009,
+"Month": 12,
+"Day": 29
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 12,
+"Day": 28
+}
+},
+{
+"BusinessEntityID": 82,
+"DepartmentID": 7,
+"ShiftID": 2,
+"StartDate": {
+"Year": 2010,
+"Month": 3,
+"Day": 3
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2010,
+"Month": 3,
+"Day": 2
+}
+},
+{
+"BusinessEntityID": 83,
+"DepartmentID": 7,
+"ShiftID": 2,
+"StartDate": {
+"Year": 2010,
+"Month": 2,
+"Day": 12
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2010,
+"Month": 2,
+"Day": 11
+}
+},
+{
+"BusinessEntityID": 84,
+"DepartmentID": 7,
+"ShiftID": 2,
+"StartDate": {
+"Year": 2010,
+"Month": 2,
+"Day": 5
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2010,
+"Month": 2,
+"Day": 4
+}
+},
+{
+"BusinessEntityID": 85,
+"DepartmentID": 7,
+"ShiftID": 2,
+"StartDate": {
+"Year": 2009,
+"Month": 12,
+"Day": 11
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 12,
+"Day": 10
+}
+},
+{
+"BusinessEntityID": 86,
+"DepartmentID": 7,
+"ShiftID": 2,
+"StartDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 5
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 4
+}
+},
+{
+"BusinessEntityID": 87,
+"DepartmentID": 7,
+"ShiftID": 3,
+"StartDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 22
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 21
+}
+},
+{
+"BusinessEntityID": 88,
+"DepartmentID": 7,
+"ShiftID": 3,
+"StartDate": {
+"Year": 2009,
+"Month": 12,
+"Day": 18
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 12,
+"Day": 17
+}
+},
+{
+"BusinessEntityID": 89,
+"DepartmentID": 7,
+"ShiftID": 3,
+"StartDate": {
+"Year": 2010,
+"Month": 2,
+"Day": 1
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2010,
+"Month": 1,
+"Day": 31
+}
+},
+{
+"BusinessEntityID": 90,
+"DepartmentID": 7,
+"ShiftID": 3,
+"StartDate": {
+"Year": 2010,
+"Month": 2,
+"Day": 20
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2010,
+"Month": 2,
+"Day": 19
+}
+},
+{
+"BusinessEntityID": 91,
+"DepartmentID": 7,
+"ShiftID": 3,
+"StartDate": {
+"Year": 2010,
+"Month": 1,
+"Day": 12
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2010,
+"Month": 1,
+"Day": 11
+}
+},
+{
+"BusinessEntityID": 92,
+"DepartmentID": 7,
+"ShiftID": 3,
+"StartDate": {
+"Year": 2010,
+"Month": 3,
+"Day": 10
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2010,
+"Month": 3,
+"Day": 9
+}
+},
+{
+"BusinessEntityID": 93,
+"DepartmentID": 7,
+"ShiftID": 2,
+"StartDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 27
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 26
+}
+},
+{
+"BusinessEntityID": 94,
+"DepartmentID": 7,
+"ShiftID": 2,
+"StartDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 12
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 11
+}
+},
+{
+"BusinessEntityID": 95,
+"DepartmentID": 7,
+"ShiftID": 2,
+"StartDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 19
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 18
+}
+},
+{
+"BusinessEntityID": 96,
+"DepartmentID": 7,
+"ShiftID": 2,
+"StartDate": {
+"Year": 2009,
+"Month": 3,
+"Day": 2
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 3,
+"Day": 1
+}
+},
+{
+"BusinessEntityID": 97,
+"DepartmentID": 7,
+"ShiftID": 2,
+"StartDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 10
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 9
+}
+},
+{
+"BusinessEntityID": 98,
+"DepartmentID": 7,
+"ShiftID": 2,
+"StartDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 11
+},
+"EndDate": "",
+"ModifiedDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 10
+}
+}
+]
+}

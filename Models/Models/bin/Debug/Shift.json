@@ -1,0 +1,37 @@
+{
+"Shift": [
+{
+"ShiftID": 1,
+"Name": "Day",
+"StartTime": "07:00:00",
+"EndTime": "15:00:00",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 4,
+"Day": 30
+}
+},
+{
+"ShiftID": 2,
+"Name": "Evening",
+"StartTime": "15:00:00",
+"EndTime": "23:00:00",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 4,
+"Day": 30
+}
+},
+{
+"ShiftID": 3,
+"Name": "Night",
+"StartTime": "23:00:00",
+"EndTime": "07:00:00",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 4,
+"Day": 30
+}
+}
+]
+}

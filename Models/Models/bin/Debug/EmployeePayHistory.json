@@ -1,0 +1,1504 @@
+{
+"EmployeePayHistory": [
+{
+"BusinessEntityID": 1,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 14
+},
+"Rate": "125,5000",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 2,
+"RateChangeDate": {
+"Year": 2008,
+"Month": 1,
+"Day": 31
+},
+"Rate": "63,4615",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 3,
+"RateChangeDate": {
+"Year": 2007,
+"Month": 11,
+"Day": 11
+},
+"Rate": "43,2692",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 4,
+"RateChangeDate": {
+"Year": 2007,
+"Month": 12,
+"Day": 5
+},
+"Rate": "8,6200",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2007,
+"Month": 11,
+"Day": 21
+}
+},
+{
+"BusinessEntityID": 4,
+"RateChangeDate": {
+"Year": 2010,
+"Month": 5,
+"Day": 31
+},
+"Rate": "23,7200",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2010,
+"Month": 5,
+"Day": 16
+}
+},
+{
+"BusinessEntityID": 4,
+"RateChangeDate": {
+"Year": 2011,
+"Month": 12,
+"Day": 15
+},
+"Rate": "29,8462",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2011,
+"Month": 12,
+"Day": 1
+}
+},
+{
+"BusinessEntityID": 5,
+"RateChangeDate": {
+"Year": 2008,
+"Month": 1,
+"Day": 6
+},
+"Rate": "32,6923",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 6,
+"RateChangeDate": {
+"Year": 2008,
+"Month": 1,
+"Day": 24
+},
+"Rate": "32,6923",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 7,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 8
+},
+"Rate": "50,4808",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 8,
+"RateChangeDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 29
+},
+"Rate": "40,8654",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 9,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 16
+},
+"Rate": "40,8654",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 10,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 5,
+"Day": 3
+},
+"Rate": "42,4808",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 11,
+"RateChangeDate": {
+"Year": 2010,
+"Month": 12,
+"Day": 5
+},
+"Rate": "28,8462",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 12,
+"RateChangeDate": {
+"Year": 2007,
+"Month": 12,
+"Day": 11
+},
+"Rate": "25,0000",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 13,
+"RateChangeDate": {
+"Year": 2010,
+"Month": 12,
+"Day": 23
+},
+"Rate": "25,0000",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 14,
+"RateChangeDate": {
+"Year": 2010,
+"Month": 12,
+"Day": 30
+},
+"Rate": "36,0577",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 15,
+"RateChangeDate": {
+"Year": 2011,
+"Month": 1,
+"Day": 18
+},
+"Rate": "32,6923",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 16,
+"RateChangeDate": {
+"Year": 2007,
+"Month": 12,
+"Day": 20
+},
+"Rate": "24,0000",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2007,
+"Month": 12,
+"Day": 6
+}
+},
+{
+"BusinessEntityID": 16,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 7,
+"Day": 15
+},
+"Rate": "28,7500",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2009,
+"Month": 7,
+"Day": 1
+}
+},
+{
+"BusinessEntityID": 16,
+"RateChangeDate": {
+"Year": 2012,
+"Month": 4,
+"Day": 30
+},
+"Rate": "37,5000",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2012,
+"Month": 4,
+"Day": 16
+}
+},
+{
+"BusinessEntityID": 17,
+"RateChangeDate": {
+"Year": 2007,
+"Month": 1,
+"Day": 26
+},
+"Rate": "13,4615",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 18,
+"RateChangeDate": {
+"Year": 2011,
+"Month": 2,
+"Day": 7
+},
+"Rate": "14,4231",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 19,
+"RateChangeDate": {
+"Year": 2011,
+"Month": 2,
+"Day": 14
+},
+"Rate": "13,4615",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 20,
+"RateChangeDate": {
+"Year": 2011,
+"Month": 1,
+"Day": 7
+},
+"Rate": "13,4615",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 21,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 3,
+"Day": 2
+},
+"Rate": "14,4231",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 22,
+"RateChangeDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 12
+},
+"Rate": "14,4231",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 23,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 12
+},
+"Rate": "14,4231",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 24,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 18
+},
+"Rate": "14,4231",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 25,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 3
+},
+"Rate": "84,1346",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 26,
+"RateChangeDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 1
+},
+"Rate": "24,5192",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 27,
+"RateChangeDate": {
+"Year": 2008,
+"Month": 2,
+"Day": 27
+},
+"Rate": "25,0000",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 28,
+"RateChangeDate": {
+"Year": 2006,
+"Month": 6,
+"Day": 30
+},
+"Rate": "12,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 29,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 23
+},
+"Rate": "12,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 30,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 29
+},
+"Rate": "12,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 31,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 4
+},
+"Rate": "12,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 32,
+"RateChangeDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 29
+},
+"Rate": "12,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 33,
+"RateChangeDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 17
+},
+"Rate": "12,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 34,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 16
+},
+"Rate": "12,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 35,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 8
+},
+"Rate": "12,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 36,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 10
+},
+"Rate": "12,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 37,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 3,
+"Day": 7
+},
+"Rate": "12,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 38,
+"RateChangeDate": {
+"Year": 2010,
+"Month": 1,
+"Day": 16
+},
+"Rate": "12,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 39,
+"RateChangeDate": {
+"Year": 2010,
+"Month": 2,
+"Day": 5
+},
+"Rate": "12,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 40,
+"RateChangeDate": {
+"Year": 2007,
+"Month": 12,
+"Day": 26
+},
+"Rate": "25,0000",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 41,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 21
+},
+"Rate": "12,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 42,
+"RateChangeDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 27
+},
+"Rate": "12,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 43,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 2
+},
+"Rate": "12,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 44,
+"RateChangeDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 8
+},
+"Rate": "12,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 45,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 26
+},
+"Rate": "12,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 46,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 8
+},
+"Rate": "12,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 47,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 22
+},
+"Rate": "25,0000",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 48,
+"RateChangeDate": {
+"Year": 2008,
+"Month": 1,
+"Day": 6
+},
+"Rate": "13,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 49,
+"RateChangeDate": {
+"Year": 2008,
+"Month": 1,
+"Day": 7
+},
+"Rate": "13,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 50,
+"RateChangeDate": {
+"Year": 2008,
+"Month": 2,
+"Day": 2
+},
+"Rate": "13,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 51,
+"RateChangeDate": {
+"Year": 2008,
+"Month": 2,
+"Day": 20
+},
+"Rate": "13,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 52,
+"RateChangeDate": {
+"Year": 2008,
+"Month": 3,
+"Day": 10
+},
+"Rate": "13,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 53,
+"RateChangeDate": {
+"Year": 2008,
+"Month": 3,
+"Day": 28
+},
+"Rate": "13,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 54,
+"RateChangeDate": {
+"Year": 2010,
+"Month": 1,
+"Day": 1
+},
+"Rate": "13,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 55,
+"RateChangeDate": {
+"Year": 2008,
+"Month": 2,
+"Day": 8
+},
+"Rate": "25,0000",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 56,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 5
+},
+"Rate": "11,0000",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 57,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 23
+},
+"Rate": "11,0000",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 58,
+"RateChangeDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 5
+},
+"Rate": "11,0000",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 59,
+"RateChangeDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 24
+},
+"Rate": "11,0000",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 60,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 11
+},
+"Rate": "11,0000",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 61,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 18
+},
+"Rate": "11,0000",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 62,
+"RateChangeDate": {
+"Year": 2008,
+"Month": 3,
+"Day": 17
+},
+"Rate": "25,0000",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 63,
+"RateChangeDate": {
+"Year": 2010,
+"Month": 1,
+"Day": 29
+},
+"Rate": "12,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 64,
+"RateChangeDate": {
+"Year": 2010,
+"Month": 2,
+"Day": 23
+},
+"Rate": "12,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 65,
+"RateChangeDate": {
+"Year": 2010,
+"Month": 2,
+"Day": 23
+},
+"Rate": "12,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 66,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 12,
+"Day": 22
+},
+"Rate": "12,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 67,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 3,
+"Day": 5
+},
+"Rate": "12,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 68,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 12,
+"Day": 3
+},
+"Rate": "12,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 69,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 15
+},
+"Rate": "12,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 70,
+"RateChangeDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 15
+},
+"Rate": "12,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 71,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 15
+},
+"Rate": "25,0000",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 72,
+"RateChangeDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 1
+},
+"Rate": "9,5000",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 73,
+"RateChangeDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 19
+},
+"Rate": "9,5000",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 74,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 7
+},
+"Rate": "9,5000",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 75,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 26
+},
+"Rate": "9,5000",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 76,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 12
+},
+"Rate": "9,5000",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 77,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 3,
+"Day": 3
+},
+"Rate": "9,5000",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 78,
+"RateChangeDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 15
+},
+"Rate": "25,0000",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 79,
+"RateChangeDate": {
+"Year": 2010,
+"Month": 1,
+"Day": 24
+},
+"Rate": "15,0000",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 80,
+"RateChangeDate": {
+"Year": 2010,
+"Month": 1,
+"Day": 17
+},
+"Rate": "15,0000",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 81,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 12,
+"Day": 29
+},
+"Rate": "15,0000",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 82,
+"RateChangeDate": {
+"Year": 2010,
+"Month": 3,
+"Day": 3
+},
+"Rate": "15,0000",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 83,
+"RateChangeDate": {
+"Year": 2010,
+"Month": 2,
+"Day": 12
+},
+"Rate": "15,0000",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 84,
+"RateChangeDate": {
+"Year": 2010,
+"Month": 2,
+"Day": 5
+},
+"Rate": "15,0000",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 85,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 12,
+"Day": 11
+},
+"Rate": "15,0000",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 86,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 5
+},
+"Rate": "15,0000",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 87,
+"RateChangeDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 22
+},
+"Rate": "25,0000",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 88,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 12,
+"Day": 18
+},
+"Rate": "13,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 89,
+"RateChangeDate": {
+"Year": 2010,
+"Month": 2,
+"Day": 1
+},
+"Rate": "13,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 90,
+"RateChangeDate": {
+"Year": 2010,
+"Month": 2,
+"Day": 20
+},
+"Rate": "13,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 91,
+"RateChangeDate": {
+"Year": 2010,
+"Month": 1,
+"Day": 12
+},
+"Rate": "13,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 92,
+"RateChangeDate": {
+"Year": 2010,
+"Month": 3,
+"Day": 10
+},
+"Rate": "13,4500",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 93,
+"RateChangeDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 27
+},
+"Rate": "25,0000",
+"PayFrequency": 2,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 94,
+"RateChangeDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 12
+},
+"Rate": "11,0000",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 95,
+"RateChangeDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 19
+},
+"Rate": "11,0000",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"BusinessEntityID": 96,
+"RateChangeDate": {
+"Year": 2009,
+"Month": 3,
+"Day": 2
+},
+"Rate": "11,0000",
+"PayFrequency": 1,
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+}
+]
+}

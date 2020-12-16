@@ -1,0 +1,3004 @@
+{
+"Employee": [
+{
+"Id": 1,
+"NationalIIDNumber": "295847284",
+"LoginID": "adventure-works\ken0",
+"OrganizationNode": "NULL",
+"OrganizationLevel": "",
+"JobTitle": "Chief Executive Officer",
+"BirthDate": {
+"Year": 1969,
+"Month": 1,
+"Day": 29
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 14
+},
+"SalariedFlag": 1,
+"VacationHours": 99,
+"SickLeaveHours": 69,
+"CurrentFlag": 1,
+"rowguid": "f01251e5-96a3-448d-981e-0f99d789110d",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 2,
+"NationalIIDNumber": "245797967",
+"LoginID": "adventure-works\terri0",
+"OrganizationNode": "/1/",
+"OrganizationLevel": "1",
+"JobTitle": "Vice President of Engineering",
+"BirthDate": {
+"Year": 1971,
+"Month": 8,
+"Day": 1
+},
+"MaritalStatus": "S",
+"Gender": "F",
+"HireDate": {
+"Year": 2008,
+"Month": 1,
+"Day": 31
+},
+"SalariedFlag": 1,
+"VacationHours": 1,
+"SickLeaveHours": 20,
+"CurrentFlag": 1,
+"rowguid": "45e8f437-670d-4409-93cb-f9424a40d6ee",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 3,
+"NationalIIDNumber": "509647174",
+"LoginID": "adventure-works\roberto0",
+"OrganizationNode": "/1/1/",
+"OrganizationLevel": "2",
+"JobTitle": "Engineering Manager",
+"BirthDate": {
+"Year": 1974,
+"Month": 11,
+"Day": 12
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2007,
+"Month": 11,
+"Day": 11
+},
+"SalariedFlag": 1,
+"VacationHours": 2,
+"SickLeaveHours": 21,
+"CurrentFlag": 1,
+"rowguid": "9bbbfb2c-efbb-4217-9ab7-f97689328841",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 4,
+"NationalIIDNumber": "112457891",
+"LoginID": "adventure-works\rob0",
+"OrganizationNode": "/1/1/1/",
+"OrganizationLevel": "3",
+"JobTitle": "Senior Tool Designer",
+"BirthDate": {
+"Year": 1974,
+"Month": 12,
+"Day": 23
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2007,
+"Month": 12,
+"Day": 5
+},
+"SalariedFlag": 0,
+"VacationHours": 48,
+"SickLeaveHours": 80,
+"CurrentFlag": 1,
+"rowguid": "59747955-87b8-443f-8ed4-f8ad3afdf3a9",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 5,
+"NationalIIDNumber": "695256908",
+"LoginID": "adventure-works\gail0",
+"OrganizationNode": "/1/1/2/",
+"OrganizationLevel": "3",
+"JobTitle": "Design Engineer",
+"BirthDate": {
+"Year": 1952,
+"Month": 9,
+"Day": 27
+},
+"MaritalStatus": "M",
+"Gender": "F",
+"HireDate": {
+"Year": 2008,
+"Month": 1,
+"Day": 6
+},
+"SalariedFlag": 1,
+"VacationHours": 5,
+"SickLeaveHours": 22,
+"CurrentFlag": 1,
+"rowguid": "ec84ae09-f9b8-4a15-b4a9-6ccbab919b08",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 6,
+"NationalIIDNumber": "998320692",
+"LoginID": "adventure-works\jossef0",
+"OrganizationNode": "/1/1/3/",
+"OrganizationLevel": "3",
+"JobTitle": "Design Engineer",
+"BirthDate": {
+"Year": 1959,
+"Month": 3,
+"Day": 11
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2008,
+"Month": 1,
+"Day": 24
+},
+"SalariedFlag": 1,
+"VacationHours": 6,
+"SickLeaveHours": 23,
+"CurrentFlag": 1,
+"rowguid": "e39056f1-9cd5-478d-8945-14aca7fbdcdd",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 7,
+"NationalIIDNumber": "134969118",
+"LoginID": "adventure-works\dylan0",
+"OrganizationNode": "/1/1/4/",
+"OrganizationLevel": "3",
+"JobTitle": "Research and Development Manager",
+"BirthDate": {
+"Year": 1987,
+"Month": 2,
+"Day": 24
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 8
+},
+"SalariedFlag": 1,
+"VacationHours": 61,
+"SickLeaveHours": 50,
+"CurrentFlag": 1,
+"rowguid": "4f46deca-ef01-41fd-9829-0adab368e431",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 8,
+"NationalIIDNumber": "811994146",
+"LoginID": "adventure-works\diane1",
+"OrganizationNode": "/1/1/4/1/",
+"OrganizationLevel": "4",
+"JobTitle": "Research and Development Engineer",
+"BirthDate": {
+"Year": 1986,
+"Month": 6,
+"Day": 5
+},
+"MaritalStatus": "S",
+"Gender": "F",
+"HireDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 29
+},
+"SalariedFlag": 1,
+"VacationHours": 62,
+"SickLeaveHours": 51,
+"CurrentFlag": 1,
+"rowguid": "31112635-663b-4018-b4a2-a685c0bf48a4",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 9,
+"NationalIIDNumber": "658797903",
+"LoginID": "adventure-works\gigi0",
+"OrganizationNode": "/1/1/4/2/",
+"OrganizationLevel": "4",
+"JobTitle": "Research and Development Engineer",
+"BirthDate": {
+"Year": 1979,
+"Month": 1,
+"Day": 21
+},
+"MaritalStatus": "M",
+"Gender": "F",
+"HireDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 16
+},
+"SalariedFlag": 1,
+"VacationHours": 63,
+"SickLeaveHours": 51,
+"CurrentFlag": 1,
+"rowguid": "50b6cdc6-7570-47ef-9570-48a64b5f2ecf",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 10,
+"NationalIIDNumber": "879342154",
+"LoginID": "adventure-works\michael6",
+"OrganizationNode": "/1/1/4/3/",
+"OrganizationLevel": "4",
+"JobTitle": "Research and Development Manager",
+"BirthDate": {
+"Year": 1984,
+"Month": 11,
+"Day": 30
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2009,
+"Month": 5,
+"Day": 3
+},
+"SalariedFlag": 1,
+"VacationHours": 16,
+"SickLeaveHours": 64,
+"CurrentFlag": 1,
+"rowguid": "eaa43680-5571-40cb-ab1a-3bf68f04459e",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 11,
+"NationalIIDNumber": "974026903",
+"LoginID": "adventure-works\ovidiu0",
+"OrganizationNode": "/1/1/5/",
+"OrganizationLevel": "3",
+"JobTitle": "Senior Tool Designer",
+"BirthDate": {
+"Year": 1978,
+"Month": 1,
+"Day": 17
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2010,
+"Month": 12,
+"Day": 5
+},
+"SalariedFlag": 0,
+"VacationHours": 7,
+"SickLeaveHours": 23,
+"CurrentFlag": 1,
+"rowguid": "f68c7c19-fac1-438c-9bb7-ac33fcc341c3",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 12,
+"NationalIIDNumber": "480168528",
+"LoginID": "adventure-works\thierry0",
+"OrganizationNode": "/1/1/5/1/",
+"OrganizationLevel": "4",
+"JobTitle": "Tool Designer",
+"BirthDate": {
+"Year": 1959,
+"Month": 7,
+"Day": 29
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2007,
+"Month": 12,
+"Day": 11
+},
+"SalariedFlag": 0,
+"VacationHours": 9,
+"SickLeaveHours": 24,
+"CurrentFlag": 1,
+"rowguid": "1d955171-e773-4fad-8382-40fd898d5d4d",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 13,
+"NationalIIDNumber": "486228782",
+"LoginID": "adventure-works\janice0",
+"OrganizationNode": "/1/1/5/2/",
+"OrganizationLevel": "4",
+"JobTitle": "Tool Designer",
+"BirthDate": {
+"Year": 1989,
+"Month": 5,
+"Day": 28
+},
+"MaritalStatus": "M",
+"Gender": "F",
+"HireDate": {
+"Year": 2010,
+"Month": 12,
+"Day": 23
+},
+"SalariedFlag": 0,
+"VacationHours": 8,
+"SickLeaveHours": 24,
+"CurrentFlag": 1,
+"rowguid": "954b91b6-5aa7-48c2-8685-6e11c6e5c49a",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 14,
+"NationalIIDNumber": "42487730",
+"LoginID": "adventure-works\michael8",
+"OrganizationNode": "/1/1/6/",
+"OrganizationLevel": "3",
+"JobTitle": "Senior Design Engineer",
+"BirthDate": {
+"Year": 1979,
+"Month": 6,
+"Day": 16
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2010,
+"Month": 12,
+"Day": 30
+},
+"SalariedFlag": 1,
+"VacationHours": 3,
+"SickLeaveHours": 21,
+"CurrentFlag": 1,
+"rowguid": "46286ca4-46dd-4ddb-9128-85b67e98d1a9",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 15,
+"NationalIIDNumber": "56920285",
+"LoginID": "adventure-works\sharon0",
+"OrganizationNode": "/1/1/7/",
+"OrganizationLevel": "3",
+"JobTitle": "Design Engineer",
+"BirthDate": {
+"Year": 1961,
+"Month": 5,
+"Day": 2
+},
+"MaritalStatus": "M",
+"Gender": "F",
+"HireDate": {
+"Year": 2011,
+"Month": 1,
+"Day": 18
+},
+"SalariedFlag": 1,
+"VacationHours": 4,
+"SickLeaveHours": 22,
+"CurrentFlag": 1,
+"rowguid": "54f2fdc0-87c4-4065-a7a8-9ac8ea624235",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 16,
+"NationalIIDNumber": "24756624",
+"LoginID": "adventure-works\david0",
+"OrganizationNode": "/2/",
+"OrganizationLevel": "1",
+"JobTitle": "Marketing Manager",
+"BirthDate": {
+"Year": 1975,
+"Month": 3,
+"Day": 19
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2007,
+"Month": 12,
+"Day": 20
+},
+"SalariedFlag": 1,
+"VacationHours": 40,
+"SickLeaveHours": 40,
+"CurrentFlag": 1,
+"rowguid": "e87029aa-2cba-4c03-b948-d83af0313e28",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 17,
+"NationalIIDNumber": "253022876",
+"LoginID": "adventure-works\kevin0",
+"OrganizationNode": "/2/1/",
+"OrganizationLevel": "2",
+"JobTitle": "Marketing Assistant",
+"BirthDate": {
+"Year": 1987,
+"Month": 5,
+"Day": 3
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2007,
+"Month": 1,
+"Day": 26
+},
+"SalariedFlag": 0,
+"VacationHours": 42,
+"SickLeaveHours": 41,
+"CurrentFlag": 1,
+"rowguid": "1b480240-95c0-410f-a717-eb29943c8886",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 18,
+"NationalIIDNumber": "222969461",
+"LoginID": "adventure-works\john5",
+"OrganizationNode": "/2/2/",
+"OrganizationLevel": "2",
+"JobTitle": "Marketing Specialist",
+"BirthDate": {
+"Year": 1978,
+"Month": 3,
+"Day": 6
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2011,
+"Month": 2,
+"Day": 7
+},
+"SalariedFlag": 0,
+"VacationHours": 48,
+"SickLeaveHours": 44,
+"CurrentFlag": 1,
+"rowguid": "64730415-1f58-4e5b-8fa8-5e4daeba53b4",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 19,
+"NationalIIDNumber": "52541318",
+"LoginID": "adventure-works\mary2",
+"OrganizationNode": "/2/3/",
+"OrganizationLevel": "2",
+"JobTitle": "Marketing Assistant",
+"BirthDate": {
+"Year": 1978,
+"Month": 1,
+"Day": 29
+},
+"MaritalStatus": "S",
+"Gender": "F",
+"HireDate": {
+"Year": 2011,
+"Month": 2,
+"Day": 14
+},
+"SalariedFlag": 0,
+"VacationHours": 43,
+"SickLeaveHours": 41,
+"CurrentFlag": 1,
+"rowguid": "1f6da901-c7f7-48a8-8eef-d81868d72b52",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 20,
+"NationalIIDNumber": "323403273",
+"LoginID": "adventure-works\wanida0",
+"OrganizationNode": "/2/4/",
+"OrganizationLevel": "2",
+"JobTitle": "Marketing Assistant",
+"BirthDate": {
+"Year": 1975,
+"Month": 3,
+"Day": 17
+},
+"MaritalStatus": "M",
+"Gender": "F",
+"HireDate": {
+"Year": 2011,
+"Month": 1,
+"Day": 7
+},
+"SalariedFlag": 0,
+"VacationHours": 41,
+"SickLeaveHours": 40,
+"CurrentFlag": 1,
+"rowguid": "43cca446-da1c-454c-8530-873ad2923e1b",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 21,
+"NationalIIDNumber": "243322160",
+"LoginID": "adventure-works\terry0",
+"OrganizationNode": "/2/5/",
+"OrganizationLevel": "2",
+"JobTitle": "Marketing Specialist",
+"BirthDate": {
+"Year": 1986,
+"Month": 2,
+"Day": 4
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2009,
+"Month": 3,
+"Day": 2
+},
+"SalariedFlag": 0,
+"VacationHours": 44,
+"SickLeaveHours": 42,
+"CurrentFlag": 1,
+"rowguid": "ad0d7626-4506-45c4-898f-9d7a0e13aabd",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 22,
+"NationalIIDNumber": "95958330",
+"LoginID": "adventure-works\sariya0",
+"OrganizationNode": "/2/6/",
+"OrganizationLevel": "2",
+"JobTitle": "Marketing Specialist",
+"BirthDate": {
+"Year": 1987,
+"Month": 5,
+"Day": 21
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 12
+},
+"SalariedFlag": 0,
+"VacationHours": 45,
+"SickLeaveHours": 42,
+"CurrentFlag": 1,
+"rowguid": "af21f1b7-0691-48ad-b325-b8f2d7b2268a",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 23,
+"NationalIIDNumber": "767955365",
+"LoginID": "adventure-works\mary0",
+"OrganizationNode": "/2/7/",
+"OrganizationLevel": "2",
+"JobTitle": "Marketing Specialist",
+"BirthDate": {
+"Year": 1962,
+"Month": 9,
+"Day": 13
+},
+"MaritalStatus": "M",
+"Gender": "F",
+"HireDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 12
+},
+"SalariedFlag": 0,
+"VacationHours": 46,
+"SickLeaveHours": 43,
+"CurrentFlag": 1,
+"rowguid": "90899830-127e-4876-85ca-7f6e03025281",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 24,
+"NationalIIDNumber": "72636981",
+"LoginID": "adventure-works\jill0",
+"OrganizationNode": "/2/8/",
+"OrganizationLevel": "2",
+"JobTitle": "Marketing Specialist",
+"BirthDate": {
+"Year": 1979,
+"Month": 6,
+"Day": 18
+},
+"MaritalStatus": "M",
+"Gender": "F",
+"HireDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 18
+},
+"SalariedFlag": 0,
+"VacationHours": 47,
+"SickLeaveHours": 43,
+"CurrentFlag": 1,
+"rowguid": "53575c58-fba1-4c1a-b8ff-95e050b44393",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 25,
+"NationalIIDNumber": "519899904",
+"LoginID": "adventure-works\james1",
+"OrganizationNode": "/3/",
+"OrganizationLevel": "1",
+"JobTitle": "Vice President of Production",
+"BirthDate": {
+"Year": 1983,
+"Month": 1,
+"Day": 7
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 3
+},
+"SalariedFlag": 1,
+"VacationHours": 64,
+"SickLeaveHours": 52,
+"CurrentFlag": 1,
+"rowguid": "d7314f24-2af1-429c-9bbb-4038f45f3e6c",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 26,
+"NationalIIDNumber": "277173473",
+"LoginID": "adventure-works\peter0",
+"OrganizationNode": "/3/1/",
+"OrganizationLevel": "2",
+"JobTitle": "Production Control Manager",
+"BirthDate": {
+"Year": 1982,
+"Month": 11,
+"Day": 3
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 1
+},
+"SalariedFlag": 1,
+"VacationHours": 43,
+"SickLeaveHours": 41,
+"CurrentFlag": 1,
+"rowguid": "69d5d162-e817-45e7-9dec-5d9b8310e7b1",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 12,
+"Day": 26
+}
+},
+{
+"Id": 27,
+"NationalIIDNumber": "446466105",
+"LoginID": "adventure-works\jo0",
+"OrganizationNode": "/3/1/1/",
+"OrganizationLevel": "3",
+"JobTitle": "Production Supervisor - WC60",
+"BirthDate": {
+"Year": 1956,
+"Month": 10,
+"Day": 8
+},
+"MaritalStatus": "S",
+"Gender": "F",
+"HireDate": {
+"Year": 2008,
+"Month": 2,
+"Day": 27
+},
+"SalariedFlag": 0,
+"VacationHours": 80,
+"SickLeaveHours": 60,
+"CurrentFlag": 1,
+"rowguid": "83ffaac6-b895-481f-b897-14f965d4da47",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 28,
+"NationalIIDNumber": "14417807",
+"LoginID": "adventure-works\guy1",
+"OrganizationNode": "/3/1/1/1/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC60",
+"BirthDate": {
+"Year": 1988,
+"Month": 3,
+"Day": 13
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2006,
+"Month": 6,
+"Day": 30
+},
+"SalariedFlag": 0,
+"VacationHours": 21,
+"SickLeaveHours": 30,
+"CurrentFlag": 1,
+"rowguid": "aae1d04a-c237-4974-b4d5-935247737718",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 29,
+"NationalIIDNumber": "948320468",
+"LoginID": "adventure-works\mark1",
+"OrganizationNode": "/3/1/1/2/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC60",
+"BirthDate": {
+"Year": 1979,
+"Month": 9,
+"Day": 25
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 23
+},
+"SalariedFlag": 0,
+"VacationHours": 19,
+"SickLeaveHours": 29,
+"CurrentFlag": 1,
+"rowguid": "cdb2c6df-93e5-4558-91c8-424d5e7c658b",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 30,
+"NationalIIDNumber": "410742000",
+"LoginID": "adventure-works\britta0",
+"OrganizationNode": "/3/1/1/3/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC60",
+"BirthDate": {
+"Year": 1989,
+"Month": 9,
+"Day": 28
+},
+"MaritalStatus": "M",
+"Gender": "F",
+"HireDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 29
+},
+"SalariedFlag": 0,
+"VacationHours": 14,
+"SickLeaveHours": 27,
+"CurrentFlag": 1,
+"rowguid": "fc12677f-42f8-4790-ad69-685088ed7e5f",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 31,
+"NationalIIDNumber": "750246141",
+"LoginID": "adventure-works\margie0",
+"OrganizationNode": "/3/1/1/4/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC60",
+"BirthDate": {
+"Year": 1986,
+"Month": 5,
+"Day": 20
+},
+"MaritalStatus": "M",
+"Gender": "F",
+"HireDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 4
+},
+"SalariedFlag": 0,
+"VacationHours": 18,
+"SickLeaveHours": 29,
+"CurrentFlag": 1,
+"rowguid": "352d6e2f-655b-49a2-9fec-efd7d8cd0d30",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 32,
+"NationalIIDNumber": "330211482",
+"LoginID": "adventure-works\rebecca0",
+"OrganizationNode": "/3/1/1/5/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC60",
+"BirthDate": {
+"Year": 1977,
+"Month": 7,
+"Day": 10
+},
+"MaritalStatus": "M",
+"Gender": "F",
+"HireDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 29
+},
+"SalariedFlag": 0,
+"VacationHours": 23,
+"SickLeaveHours": 31,
+"CurrentFlag": 1,
+"rowguid": "bdadeb5c-a596-4da1-88ba-842c7a0cc10f",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 33,
+"NationalIIDNumber": "801758002",
+"LoginID": "adventure-works\annik0",
+"OrganizationNode": "/3/1/1/6/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC60",
+"BirthDate": {
+"Year": 1976,
+"Month": 12,
+"Day": 26
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 17
+},
+"SalariedFlag": 0,
+"VacationHours": 17,
+"SickLeaveHours": 28,
+"CurrentFlag": 1,
+"rowguid": "51fde6ac-bd50-467c-90e5-10ca7310455c",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 34,
+"NationalIIDNumber": "754372876",
+"LoginID": "adventure-works\suchitra0",
+"OrganizationNode": "/3/1/1/7/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC60",
+"BirthDate": {
+"Year": 1987,
+"Month": 6,
+"Day": 10
+},
+"MaritalStatus": "M",
+"Gender": "F",
+"HireDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 16
+},
+"SalariedFlag": 0,
+"VacationHours": 15,
+"SickLeaveHours": 27,
+"CurrentFlag": 1,
+"rowguid": "6adbd932-0da5-4f5c-af67-8e3a53630896",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 35,
+"NationalIIDNumber": "999440576",
+"LoginID": "adventure-works\brandon0",
+"OrganizationNode": "/3/1/1/8/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC60",
+"BirthDate": {
+"Year": 1977,
+"Month": 1,
+"Day": 10
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 8
+},
+"SalariedFlag": 0,
+"VacationHours": 22,
+"SickLeaveHours": 31,
+"CurrentFlag": 1,
+"rowguid": "ca5d1935-44e2-4c45-93bb-809e59f56796",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 36,
+"NationalIIDNumber": "788456780",
+"LoginID": "adventure-works\jose0",
+"OrganizationNode": "/3/1/1/9/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC60",
+"BirthDate": {
+"Year": 1984,
+"Month": 7,
+"Day": 31
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 10
+},
+"SalariedFlag": 0,
+"VacationHours": 20,
+"SickLeaveHours": 30,
+"CurrentFlag": 1,
+"rowguid": "9e912556-88ba-41ee-b946-cb84ab4c1102",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 37,
+"NationalIIDNumber": "442121106",
+"LoginID": "adventure-works\chris2",
+"OrganizationNode": "/3/1/1/10/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC60",
+"BirthDate": {
+"Year": 1986,
+"Month": 8,
+"Day": 7
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2009,
+"Month": 3,
+"Day": 7
+},
+"SalariedFlag": 0,
+"VacationHours": 16,
+"SickLeaveHours": 28,
+"CurrentFlag": 1,
+"rowguid": "77b384c7-affb-4816-992b-f5b3034ee4ff",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 38,
+"NationalIIDNumber": "6298838",
+"LoginID": "adventure-works\kim1",
+"OrganizationNode": "/3/1/1/11/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC60",
+"BirthDate": {
+"Year": 1966,
+"Month": 12,
+"Day": 14
+},
+"MaritalStatus": "M",
+"Gender": "F",
+"HireDate": {
+"Year": 2010,
+"Month": 1,
+"Day": 16
+},
+"SalariedFlag": 0,
+"VacationHours": 24,
+"SickLeaveHours": 32,
+"CurrentFlag": 1,
+"rowguid": "891c27f4-28cc-44bb-bea3-da5ea7fbe957",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 39,
+"NationalIIDNumber": "461786517",
+"LoginID": "adventure-works\ed0",
+"OrganizationNode": "/3/1/1/12/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC60",
+"BirthDate": {
+"Year": 1971,
+"Month": 9,
+"Day": 11
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2010,
+"Month": 2,
+"Day": 5
+},
+"SalariedFlag": 0,
+"VacationHours": 25,
+"SickLeaveHours": 32,
+"CurrentFlag": 1,
+"rowguid": "8ef22fb3-af37-4b44-8862-d60a7cb09d82",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 40,
+"NationalIIDNumber": "309738752",
+"LoginID": "adventure-works\jolynn0",
+"OrganizationNode": "/3/1/2/",
+"OrganizationLevel": "3",
+"JobTitle": "Production Supervisor - WC60",
+"BirthDate": {
+"Year": 1956,
+"Month": 1,
+"Day": 16
+},
+"MaritalStatus": "S",
+"Gender": "F",
+"HireDate": {
+"Year": 2007,
+"Month": 12,
+"Day": 26
+},
+"SalariedFlag": 0,
+"VacationHours": 82,
+"SickLeaveHours": 61,
+"CurrentFlag": 1,
+"rowguid": "2cc71b96-f421-485e-9832-8723337749bb",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 41,
+"NationalIIDNumber": "458159238",
+"LoginID": "adventure-works\bryan0",
+"OrganizationNode": "/3/1/2/1/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC60",
+"BirthDate": {
+"Year": 1973,
+"Month": 8,
+"Day": 27
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 21
+},
+"SalariedFlag": 0,
+"VacationHours": 35,
+"SickLeaveHours": 37,
+"CurrentFlag": 1,
+"rowguid": "4652d4e4-6a27-47ed-9f51-c377e293da28",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 42,
+"NationalIIDNumber": "339712426",
+"LoginID": "adventure-works\james0",
+"OrganizationNode": "/3/1/2/2/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC60",
+"BirthDate": {
+"Year": 1984,
+"Month": 7,
+"Day": 25
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 27
+},
+"SalariedFlag": 0,
+"VacationHours": 39,
+"SickLeaveHours": 39,
+"CurrentFlag": 1,
+"rowguid": "82e52d5a-165b-4c6d-9773-c3a6b6332ecd",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 43,
+"NationalIIDNumber": "693325305",
+"LoginID": "adventure-works\nancy0",
+"OrganizationNode": "/3/1/2/3/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC60",
+"BirthDate": {
+"Year": 1988,
+"Month": 11,
+"Day": 19
+},
+"MaritalStatus": "M",
+"Gender": "F",
+"HireDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 2
+},
+"SalariedFlag": 0,
+"VacationHours": 34,
+"SickLeaveHours": 37,
+"CurrentFlag": 1,
+"rowguid": "6b7eb306-9a00-496a-98a9-4e94fe72f77c",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 44,
+"NationalIIDNumber": "276751903",
+"LoginID": "adventure-works\simon0",
+"OrganizationNode": "/3/1/2/4/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC60",
+"BirthDate": {
+"Year": 1990,
+"Month": 5,
+"Day": 17
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 8
+},
+"SalariedFlag": 0,
+"VacationHours": 38,
+"SickLeaveHours": 39,
+"CurrentFlag": 1,
+"rowguid": "f734d38a-56b5-471e-8ded-a682e958a9b3",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 45,
+"NationalIIDNumber": "500412746",
+"LoginID": "adventure-works\thomas0",
+"OrganizationNode": "/3/1/2/5/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC60",
+"BirthDate": {
+"Year": 1986,
+"Month": 1,
+"Day": 10
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 26
+},
+"SalariedFlag": 0,
+"VacationHours": 37,
+"SickLeaveHours": 38,
+"CurrentFlag": 1,
+"rowguid": "8ff3af67-32f2-4a08-98c3-a40f842d41a3",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 46,
+"NationalIIDNumber": "66073987",
+"LoginID": "adventure-works\eugene1",
+"OrganizationNode": "/3/1/2/6/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC60",
+"BirthDate": {
+"Year": 1976,
+"Month": 2,
+"Day": 10
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 8
+},
+"SalariedFlag": 0,
+"VacationHours": 36,
+"SickLeaveHours": 38,
+"CurrentFlag": 1,
+"rowguid": "33543b35-77da-4600-a41b-1eafea0ad643",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 47,
+"NationalIIDNumber": "33237992",
+"LoginID": "adventure-works\andrew0",
+"OrganizationNode": "/3/1/3/",
+"OrganizationLevel": "3",
+"JobTitle": "Production Supervisor - WC10",
+"BirthDate": {
+"Year": 1988,
+"Month": 9,
+"Day": 6
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 22
+},
+"SalariedFlag": 0,
+"VacationHours": 65,
+"SickLeaveHours": 52,
+"CurrentFlag": 1,
+"rowguid": "08365b05-c143-4260-a93c-6b69418b1946",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 48,
+"NationalIIDNumber": "690627818",
+"LoginID": "adventure-works\ruth0",
+"OrganizationNode": "/3/1/3/1/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC10",
+"BirthDate": {
+"Year": 1956,
+"Month": 6,
+"Day": 4
+},
+"MaritalStatus": "M",
+"Gender": "F",
+"HireDate": {
+"Year": 2008,
+"Month": 1,
+"Day": 6
+},
+"SalariedFlag": 0,
+"VacationHours": 83,
+"SickLeaveHours": 61,
+"CurrentFlag": 1,
+"rowguid": "3e3b6905-209e-442e-b8a8-9a0980241c6a",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 49,
+"NationalIIDNumber": "912265825",
+"LoginID": "adventure-works\barry0",
+"OrganizationNode": "/3/1/3/2/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC10",
+"BirthDate": {
+"Year": 1956,
+"Month": 3,
+"Day": 26
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2008,
+"Month": 1,
+"Day": 7
+},
+"SalariedFlag": 0,
+"VacationHours": 88,
+"SickLeaveHours": 64,
+"CurrentFlag": 1,
+"rowguid": "756a60ae-378f-43d8-9f93-1e821d1eaf52",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 50,
+"NationalIIDNumber": "844973625",
+"LoginID": "adventure-works\sidney0",
+"OrganizationNode": "/3/1/3/3/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC10",
+"BirthDate": {
+"Year": 1956,
+"Month": 8,
+"Day": 30
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2008,
+"Month": 2,
+"Day": 2
+},
+"SalariedFlag": 0,
+"VacationHours": 84,
+"SickLeaveHours": 62,
+"CurrentFlag": 1,
+"rowguid": "40d603d9-7f99-48b7-a580-b17cf429bed2",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 51,
+"NationalIIDNumber": "132674823",
+"LoginID": "adventure-works\jeffrey0",
+"OrganizationNode": "/3/1/3/4/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC10",
+"BirthDate": {
+"Year": 1956,
+"Month": 7,
+"Day": 11
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2008,
+"Month": 2,
+"Day": 20
+},
+"SalariedFlag": 0,
+"VacationHours": 85,
+"SickLeaveHours": 62,
+"CurrentFlag": 1,
+"rowguid": "6e086f41-b81d-4bdc-9f13-0eec488dc43e",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 52,
+"NationalIIDNumber": "565090917",
+"LoginID": "adventure-works\doris0",
+"OrganizationNode": "/3/1/3/5/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC10",
+"BirthDate": {
+"Year": 1956,
+"Month": 4,
+"Day": 4
+},
+"MaritalStatus": "M",
+"Gender": "F",
+"HireDate": {
+"Year": 2008,
+"Month": 3,
+"Day": 10
+},
+"SalariedFlag": 0,
+"VacationHours": 86,
+"SickLeaveHours": 63,
+"CurrentFlag": 1,
+"rowguid": "692b8826-03b4-4c3b-82fc-1fc6f1409689",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 53,
+"NationalIIDNumber": "9659517",
+"LoginID": "adventure-works\diane0",
+"OrganizationNode": "/3/1/3/6/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC10",
+"BirthDate": {
+"Year": 1956,
+"Month": 3,
+"Day": 29
+},
+"MaritalStatus": "M",
+"Gender": "F",
+"HireDate": {
+"Year": 2008,
+"Month": 3,
+"Day": 28
+},
+"SalariedFlag": 0,
+"VacationHours": 87,
+"SickLeaveHours": 63,
+"CurrentFlag": 1,
+"rowguid": "c334b2d2-0c56-4906-9095-f1d07a98cbec",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 54,
+"NationalIIDNumber": "109272464",
+"LoginID": "adventure-works\bonnie0",
+"OrganizationNode": "/3/1/3/7/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC10",
+"BirthDate": {
+"Year": 1986,
+"Month": 9,
+"Day": 10
+},
+"MaritalStatus": "M",
+"Gender": "F",
+"HireDate": {
+"Year": 2010,
+"Month": 1,
+"Day": 1
+},
+"SalariedFlag": 0,
+"VacationHours": 89,
+"SickLeaveHours": 64,
+"CurrentFlag": 1,
+"rowguid": "e950a52a-df61-4fec-9063-545664d65b89",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 55,
+"NationalIIDNumber": "233069302",
+"LoginID": "adventure-works\taylor0",
+"OrganizationNode": "/3/1/4/",
+"OrganizationLevel": "3",
+"JobTitle": "Production Supervisor - WC50",
+"BirthDate": {
+"Year": 1956,
+"Month": 4,
+"Day": 1
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2008,
+"Month": 2,
+"Day": 8
+},
+"SalariedFlag": 0,
+"VacationHours": 79,
+"SickLeaveHours": 59,
+"CurrentFlag": 1,
+"rowguid": "28f7ef89-2793-4989-b67d-25046543c1e3",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 56,
+"NationalIIDNumber": "652535724",
+"LoginID": "adventure-works\denise0",
+"OrganizationNode": "/3/1/4/1/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC50",
+"BirthDate": {
+"Year": 1988,
+"Month": 7,
+"Day": 6
+},
+"MaritalStatus": "M",
+"Gender": "F",
+"HireDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 5
+},
+"SalariedFlag": 0,
+"VacationHours": 9,
+"SickLeaveHours": 24,
+"CurrentFlag": 1,
+"rowguid": "77878c43-f16e-437d-892f-3cfcc0715a0a",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 57,
+"NationalIIDNumber": "10708100",
+"LoginID": "adventure-works\frank1",
+"OrganizationNode": "/3/1/4/2/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC50",
+"BirthDate": {
+"Year": 1971,
+"Month": 7,
+"Day": 24
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 23
+},
+"SalariedFlag": 0,
+"VacationHours": 10,
+"SickLeaveHours": 25,
+"CurrentFlag": 1,
+"rowguid": "b395cd84-77ba-4d3c-a49d-d9e8d6cf100b",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 58,
+"NationalIIDNumber": "571658797",
+"LoginID": "adventure-works\kendall0",
+"OrganizationNode": "/3/1/4/3/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC50",
+"BirthDate": {
+"Year": 1986,
+"Month": 5,
+"Day": 30
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 5
+},
+"SalariedFlag": 0,
+"VacationHours": 11,
+"SickLeaveHours": 25,
+"CurrentFlag": 1,
+"rowguid": "65207627-5521-4a8e-ad3c-b2f1b5226b85",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 59,
+"NationalIIDNumber": "843479922",
+"LoginID": "adventure-works\bob0",
+"OrganizationNode": "/3/1/4/4/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC50",
+"BirthDate": {
+"Year": 1979,
+"Month": 8,
+"Day": 16
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 24
+},
+"SalariedFlag": 0,
+"VacationHours": 12,
+"SickLeaveHours": 26,
+"CurrentFlag": 1,
+"rowguid": "68616aea-81e5-4940-a7e4-6fba882bccf6",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 60,
+"NationalIIDNumber": "827686041",
+"LoginID": "adventure-works\pete0",
+"OrganizationNode": "/3/1/4/5/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC50",
+"BirthDate": {
+"Year": 1977,
+"Month": 2,
+"Day": 3
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 11
+},
+"SalariedFlag": 0,
+"VacationHours": 13,
+"SickLeaveHours": 26,
+"CurrentFlag": 1,
+"rowguid": "1f1d813d-3edc-4274-8e9b-4519d71685b6",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 61,
+"NationalIIDNumber": "92096924",
+"LoginID": "adventure-works\diane2",
+"OrganizationNode": "/3/1/4/6/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC50",
+"BirthDate": {
+"Year": 1989,
+"Month": 8,
+"Day": 9
+},
+"MaritalStatus": "S",
+"Gender": "F",
+"HireDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 18
+},
+"SalariedFlag": 0,
+"VacationHours": 8,
+"SickLeaveHours": 24,
+"CurrentFlag": 1,
+"rowguid": "721a2921-c415-46de-9111-13f25f428b8b",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 62,
+"NationalIIDNumber": "494170342",
+"LoginID": "adventure-works\john0",
+"OrganizationNode": "/3/1/5/",
+"OrganizationLevel": "3",
+"JobTitle": "Production Supervisor - WC60",
+"BirthDate": {
+"Year": 1956,
+"Month": 8,
+"Day": 7
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2008,
+"Month": 3,
+"Day": 17
+},
+"SalariedFlag": 0,
+"VacationHours": 81,
+"SickLeaveHours": 60,
+"CurrentFlag": 1,
+"rowguid": "d4ed1f78-7c28-479b-bfef-a73228ba2aaa",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 63,
+"NationalIIDNumber": "414476027",
+"LoginID": "adventure-works\maciej0",
+"OrganizationNode": "/3/1/5/1/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC60",
+"BirthDate": {
+"Year": 1955,
+"Month": 1,
+"Day": 30
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2010,
+"Month": 1,
+"Day": 29
+},
+"SalariedFlag": 0,
+"VacationHours": 30,
+"SickLeaveHours": 35,
+"CurrentFlag": 1,
+"rowguid": "3229d93f-6a14-4bac-abc5-a91b9ecfb4d3",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 64,
+"NationalIIDNumber": "582347317",
+"LoginID": "adventure-works\michael7",
+"OrganizationNode": "/3/1/5/2/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC60",
+"BirthDate": {
+"Year": 1973,
+"Month": 9,
+"Day": 5
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2010,
+"Month": 2,
+"Day": 23
+},
+"SalariedFlag": 0,
+"VacationHours": 26,
+"SickLeaveHours": 33,
+"CurrentFlag": 1,
+"rowguid": "492b24bd-bde9-4371-b96e-ccd72264b91f",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 65,
+"NationalIIDNumber": "8066363",
+"LoginID": "adventure-works\randy0",
+"OrganizationNode": "/3/1/5/3/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC60",
+"BirthDate": {
+"Year": 1970,
+"Month": 4,
+"Day": 28
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2010,
+"Month": 2,
+"Day": 23
+},
+"SalariedFlag": 0,
+"VacationHours": 29,
+"SickLeaveHours": 34,
+"CurrentFlag": 1,
+"rowguid": "9a08108d-e039-4862-8f93-55f18017ad72",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 66,
+"NationalIIDNumber": "834186596",
+"LoginID": "adventure-works\karan0",
+"OrganizationNode": "/3/1/5/4/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC60",
+"BirthDate": {
+"Year": 1970,
+"Month": 3,
+"Day": 7
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2009,
+"Month": 12,
+"Day": 22
+},
+"SalariedFlag": 0,
+"VacationHours": 28,
+"SickLeaveHours": 34,
+"CurrentFlag": 1,
+"rowguid": "08b1ba74-dd80-4fda-8327-93268b84977b",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 67,
+"NationalIIDNumber": "63179277",
+"LoginID": "adventure-works\jay0",
+"OrganizationNode": "/3/1/5/5/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC60",
+"BirthDate": {
+"Year": 1976,
+"Month": 2,
+"Day": 11
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2009,
+"Month": 3,
+"Day": 5
+},
+"SalariedFlag": 0,
+"VacationHours": 32,
+"SickLeaveHours": 36,
+"CurrentFlag": 1,
+"rowguid": "18187809-5294-474f-85a1-d5be6bd518d6",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 68,
+"NationalIIDNumber": "537092325",
+"LoginID": "adventure-works\charles0",
+"OrganizationNode": "/3/1/5/6/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC60",
+"BirthDate": {
+"Year": 1971,
+"Month": 9,
+"Day": 2
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2009,
+"Month": 12,
+"Day": 3
+},
+"SalariedFlag": 0,
+"VacationHours": 27,
+"SickLeaveHours": 33,
+"CurrentFlag": 1,
+"rowguid": "cdc11292-df74-4fb0-8676-5b2aa4687142",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 69,
+"NationalIIDNumber": "752513276",
+"LoginID": "adventure-works\steve0",
+"OrganizationNode": "/3/1/5/7/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC60",
+"BirthDate": {
+"Year": 1991,
+"Month": 4,
+"Day": 6
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 15
+},
+"SalariedFlag": 0,
+"VacationHours": 31,
+"SickLeaveHours": 35,
+"CurrentFlag": 1,
+"rowguid": "12f678d7-ead3-4cf4-8518-a19aacf2a6d4",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 70,
+"NationalIIDNumber": "36151748",
+"LoginID": "adventure-works\david2",
+"OrganizationNode": "/3/1/5/8/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC60",
+"BirthDate": {
+"Year": 1984,
+"Month": 12,
+"Day": 29
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 15
+},
+"SalariedFlag": 0,
+"VacationHours": 33,
+"SickLeaveHours": 36,
+"CurrentFlag": 1,
+"rowguid": "fc617bb8-d2a3-4374-873c-8ef38d80127d",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 71,
+"NationalIIDNumber": "578935259",
+"LoginID": "adventure-works\michael3",
+"OrganizationNode": "/3/1/6/",
+"OrganizationLevel": "3",
+"JobTitle": "Production Supervisor - WC30",
+"BirthDate": {
+"Year": 1989,
+"Month": 1,
+"Day": 29
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 15
+},
+"SalariedFlag": 0,
+"VacationHours": 70,
+"SickLeaveHours": 55,
+"CurrentFlag": 1,
+"rowguid": "1ad772d7-7b4a-4a7b-8676-49dd7608cb94",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 72,
+"NationalIIDNumber": "443968955",
+"LoginID": "adventure-works\steven0",
+"OrganizationNode": "/3/1/6/1/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC30",
+"BirthDate": {
+"Year": 1977,
+"Month": 5,
+"Day": 14
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 1
+},
+"SalariedFlag": 0,
+"VacationHours": 41,
+"SickLeaveHours": 40,
+"CurrentFlag": 1,
+"rowguid": "0a8937c9-68aa-4d48-ba4e-b40493d764aa",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 73,
+"NationalIIDNumber": "138280935",
+"LoginID": "adventure-works\carole0",
+"OrganizationNode": "/3/1/6/2/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC30",
+"BirthDate": {
+"Year": 1983,
+"Month": 10,
+"Day": 19
+},
+"MaritalStatus": "M",
+"Gender": "F",
+"HireDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 19
+},
+"SalariedFlag": 0,
+"VacationHours": 42,
+"SickLeaveHours": 41,
+"CurrentFlag": 1,
+"rowguid": "c76a41f1-a390-4ae4-a82a-2a87764c6391",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 74,
+"NationalIIDNumber": "420023788",
+"LoginID": "adventure-works\bjorn0",
+"OrganizationNode": "/3/1/6/3/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC30",
+"BirthDate": {
+"Year": 1989,
+"Month": 11,
+"Day": 6
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 7
+},
+"SalariedFlag": 0,
+"VacationHours": 43,
+"SickLeaveHours": 41,
+"CurrentFlag": 1,
+"rowguid": "a942e1e0-2d5e-4858-97c0-947020e96860",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 75,
+"NationalIIDNumber": "363996959",
+"LoginID": "adventure-works\michiko0",
+"OrganizationNode": "/3/1/6/4/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC30",
+"BirthDate": {
+"Year": 1982,
+"Month": 6,
+"Day": 27
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 26
+},
+"SalariedFlag": 0,
+"VacationHours": 44,
+"SickLeaveHours": 42,
+"CurrentFlag": 1,
+"rowguid": "f359f5b6-5e18-4c62-8531-14d951911ce5",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 76,
+"NationalIIDNumber": "227319668",
+"LoginID": "adventure-works\carol0",
+"OrganizationNode": "/3/1/6/5/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC30",
+"BirthDate": {
+"Year": 1988,
+"Month": 10,
+"Day": 17
+},
+"MaritalStatus": "M",
+"Gender": "F",
+"HireDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 12
+},
+"SalariedFlag": 0,
+"VacationHours": 45,
+"SickLeaveHours": 42,
+"CurrentFlag": 1,
+"rowguid": "8d0182a3-5b59-4eea-9b3c-c7f05da9a2ce",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 77,
+"NationalIIDNumber": "301435199",
+"LoginID": "adventure-works\merav0",
+"OrganizationNode": "/3/1/6/6/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC30",
+"BirthDate": {
+"Year": 1983,
+"Month": 5,
+"Day": 13
+},
+"MaritalStatus": "M",
+"Gender": "F",
+"HireDate": {
+"Year": 2009,
+"Month": 3,
+"Day": 3
+},
+"SalariedFlag": 0,
+"VacationHours": 46,
+"SickLeaveHours": 43,
+"CurrentFlag": 1,
+"rowguid": "2ee7914a-62d3-473b-a0e1-e4e55341ec4e",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 78,
+"NationalIIDNumber": "370989364",
+"LoginID": "adventure-works\reuben0",
+"OrganizationNode": "/3/1/7/",
+"OrganizationLevel": "3",
+"JobTitle": "Production Supervisor - WC40",
+"BirthDate": {
+"Year": 1987,
+"Month": 8,
+"Day": 27
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 15
+},
+"SalariedFlag": 0,
+"VacationHours": 72,
+"SickLeaveHours": 56,
+"CurrentFlag": 1,
+"rowguid": "71eee2a6-b9b3-4bf4-8949-01239df7c901",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 79,
+"NationalIIDNumber": "697712387",
+"LoginID": "adventure-works\eric1",
+"OrganizationNode": "/3/1/7/1/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC40",
+"BirthDate": {
+"Year": 1966,
+"Month": 12,
+"Day": 8
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2010,
+"Month": 1,
+"Day": 24
+},
+"SalariedFlag": 0,
+"VacationHours": 60,
+"SickLeaveHours": 50,
+"CurrentFlag": 1,
+"rowguid": "55f62e38-9457-46c8-a824-e46a3117a935",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 80,
+"NationalIIDNumber": "943170460",
+"LoginID": "adventure-works\sandeep0",
+"OrganizationNode": "/3/1/7/2/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC40",
+"BirthDate": {
+"Year": 1970,
+"Month": 12,
+"Day": 3
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2010,
+"Month": 1,
+"Day": 17
+},
+"SalariedFlag": 0,
+"VacationHours": 65,
+"SickLeaveHours": 52,
+"CurrentFlag": 1,
+"rowguid": "606c21e2-3ec0-48a6-a9fe-6bc8123ac786",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 81,
+"NationalIIDNumber": "413787783",
+"LoginID": "adventure-works\mihail0",
+"OrganizationNode": "/3/1/7/3/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC40",
+"BirthDate": {
+"Year": 1971,
+"Month": 3,
+"Day": 9
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2009,
+"Month": 12,
+"Day": 29
+},
+"SalariedFlag": 0,
+"VacationHours": 64,
+"SickLeaveHours": 52,
+"CurrentFlag": 1,
+"rowguid": "03a9ba14-0d5b-4671-b851-2c1721efbf01",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 82,
+"NationalIIDNumber": "58791499",
+"LoginID": "adventure-works\jack1",
+"OrganizationNode": "/3/1/7/4/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC40",
+"BirthDate": {
+"Year": 1973,
+"Month": 8,
+"Day": 29
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2010,
+"Month": 3,
+"Day": 3
+},
+"SalariedFlag": 0,
+"VacationHours": 62,
+"SickLeaveHours": 51,
+"CurrentFlag": 1,
+"rowguid": "d308d387-f7f3-4b5f-abda-faf5574245cd",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 83,
+"NationalIIDNumber": "988315686",
+"LoginID": "adventure-works\patrick1",
+"OrganizationNode": "/3/1/7/5/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC40",
+"BirthDate": {
+"Year": 1973,
+"Month": 12,
+"Day": 23
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2010,
+"Month": 2,
+"Day": 12
+},
+"SalariedFlag": 0,
+"VacationHours": 61,
+"SickLeaveHours": 50,
+"CurrentFlag": 1,
+"rowguid": "296c52ae-169f-4292-975d-c508476dcecf",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 84,
+"NationalIIDNumber": "947029962",
+"LoginID": "adventure-works\frank3",
+"OrganizationNode": "/3/1/7/6/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC40",
+"BirthDate": {
+"Year": 1952,
+"Month": 3,
+"Day": 2
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2010,
+"Month": 2,
+"Day": 5
+},
+"SalariedFlag": 0,
+"VacationHours": 66,
+"SickLeaveHours": 53,
+"CurrentFlag": 1,
+"rowguid": "9af24acc-ea3e-4efe-b5e3-4762c496d57c",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 85,
+"NationalIIDNumber": "1662732",
+"LoginID": "adventure-works\brian2",
+"OrganizationNode": "/3/1/7/7/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC40",
+"BirthDate": {
+"Year": 1970,
+"Month": 12,
+"Day": 23
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2009,
+"Month": 12,
+"Day": 11
+},
+"SalariedFlag": 0,
+"VacationHours": 63,
+"SickLeaveHours": 51,
+"CurrentFlag": 1,
+"rowguid": "c294f676-caaf-4924-9730-bc81ae408be1",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 86,
+"NationalIIDNumber": "769680433",
+"LoginID": "adventure-works\ryan0",
+"OrganizationNode": "/3/1/7/8/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC40",
+"BirthDate": {
+"Year": 1972,
+"Month": 6,
+"Day": 13
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 5
+},
+"SalariedFlag": 0,
+"VacationHours": 59,
+"SickLeaveHours": 49,
+"CurrentFlag": 1,
+"rowguid": "10e5bd6f-2b9c-4192-a94d-6a2d50ea1adb",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 87,
+"NationalIIDNumber": "7201901",
+"LoginID": "adventure-works\cristian0",
+"OrganizationNode": "/3/1/8/",
+"OrganizationLevel": "3",
+"JobTitle": "Production Supervisor - WC10",
+"BirthDate": {
+"Year": 1984,
+"Month": 4,
+"Day": 11
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 22
+},
+"SalariedFlag": 0,
+"VacationHours": 67,
+"SickLeaveHours": 53,
+"CurrentFlag": 1,
+"rowguid": "5be16416-8570-417d-9e54-047db468b5e9",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 88,
+"NationalIIDNumber": "294148271",
+"LoginID": "adventure-works\betsy0",
+"OrganizationNode": "/3/1/8/1/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC10",
+"BirthDate": {
+"Year": 1966,
+"Month": 12,
+"Day": 17
+},
+"MaritalStatus": "S",
+"Gender": "F",
+"HireDate": {
+"Year": 2009,
+"Month": 12,
+"Day": 18
+},
+"SalariedFlag": 0,
+"VacationHours": 99,
+"SickLeaveHours": 69,
+"CurrentFlag": 1,
+"rowguid": "ebcdba1c-6c1d-4d36-90f7-1893755c85e3",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 89,
+"NationalIIDNumber": "90888098",
+"LoginID": "adventure-works\patrick0",
+"OrganizationNode": "/3/1/8/2/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC10",
+"BirthDate": {
+"Year": 1986,
+"Month": 9,
+"Day": 10
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2010,
+"Month": 2,
+"Day": 1
+},
+"SalariedFlag": 0,
+"VacationHours": 96,
+"SickLeaveHours": 68,
+"CurrentFlag": 1,
+"rowguid": "d5fbe9e6-b8c5-484c-b4b8-48059e0ef267",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 90,
+"NationalIIDNumber": "82638150",
+"LoginID": "adventure-works\danielle0",
+"OrganizationNode": "/3/1/8/3/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC10",
+"BirthDate": {
+"Year": 1986,
+"Month": 9,
+"Day": 7
+},
+"MaritalStatus": "S",
+"Gender": "F",
+"HireDate": {
+"Year": 2010,
+"Month": 2,
+"Day": 20
+},
+"SalariedFlag": 0,
+"VacationHours": 97,
+"SickLeaveHours": 68,
+"CurrentFlag": 1,
+"rowguid": "bb886159-1400-4264-b7c9-a3769beb1274",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 91,
+"NationalIIDNumber": "390124815",
+"LoginID": "adventure-works\kimberly0",
+"OrganizationNode": "/3/1/8/4/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC10",
+"BirthDate": {
+"Year": 1986,
+"Month": 9,
+"Day": 13
+},
+"MaritalStatus": "S",
+"Gender": "F",
+"HireDate": {
+"Year": 2010,
+"Month": 1,
+"Day": 12
+},
+"SalariedFlag": 0,
+"VacationHours": 95,
+"SickLeaveHours": 67,
+"CurrentFlag": 1,
+"rowguid": "ce256b6c-1eee-43ed-9969-7cac480ff4d7",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 92,
+"NationalIIDNumber": "826454897",
+"LoginID": "adventure-works\tom0",
+"OrganizationNode": "/3/1/8/5/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC10",
+"BirthDate": {
+"Year": 1986,
+"Month": 10,
+"Day": 1
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2010,
+"Month": 3,
+"Day": 10
+},
+"SalariedFlag": 0,
+"VacationHours": 98,
+"SickLeaveHours": 69,
+"CurrentFlag": 1,
+"rowguid": "b3bf7fc5-2014-48ce-b7bb-76124fa8446c",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 93,
+"NationalIIDNumber": "778552911",
+"LoginID": "adventure-works\kok-ho0",
+"OrganizationNode": "/3/1/9/",
+"OrganizationLevel": "3",
+"JobTitle": "Production Supervisor - WC50",
+"BirthDate": {
+"Year": 1980,
+"Month": 4,
+"Day": 28
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 27
+},
+"SalariedFlag": 0,
+"VacationHours": 78,
+"SickLeaveHours": 59,
+"CurrentFlag": 1,
+"rowguid": "57fb2c0f-b105-49f0-967a-88f3d743cb3f",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 94,
+"NationalIIDNumber": "718299860",
+"LoginID": "adventure-works\russell0",
+"OrganizationNode": "/3/1/9/1/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC50",
+"BirthDate": {
+"Year": 1972,
+"Month": 11,
+"Day": 25
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 12
+},
+"SalariedFlag": 0,
+"VacationHours": 6,
+"SickLeaveHours": 23,
+"CurrentFlag": 1,
+"rowguid": "6b10192f-d570-47c4-82c9-3d979b1efdc1",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 95,
+"NationalIIDNumber": "674171828",
+"LoginID": "adventure-works\jim0",
+"OrganizationNode": "/3/1/9/2/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC50",
+"BirthDate": {
+"Year": 1986,
+"Month": 9,
+"Day": 8
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2008,
+"Month": 12,
+"Day": 19
+},
+"SalariedFlag": 0,
+"VacationHours": 1,
+"SickLeaveHours": 20,
+"CurrentFlag": 1,
+"rowguid": "6175876e-8fcc-4917-be06-fc358515e6df",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 96,
+"NationalIIDNumber": "912141525",
+"LoginID": "adventure-works\elizabeth0",
+"OrganizationNode": "/3/1/9/3/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC50",
+"BirthDate": {
+"Year": 1990,
+"Month": 1,
+"Day": 25
+},
+"MaritalStatus": "M",
+"Gender": "F",
+"HireDate": {
+"Year": 2009,
+"Month": 3,
+"Day": 2
+},
+"SalariedFlag": 0,
+"VacationHours": 5,
+"SickLeaveHours": 22,
+"CurrentFlag": 1,
+"rowguid": "62a9f73f-6443-4f2f-b864-18186614bfb6",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 97,
+"NationalIIDNumber": "370581729",
+"LoginID": "adventure-works\mandar0",
+"OrganizationNode": "/3/1/9/4/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC50",
+"BirthDate": {
+"Year": 1986,
+"Month": 3,
+"Day": 21
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 10
+},
+"SalariedFlag": 0,
+"VacationHours": 0,
+"SickLeaveHours": 20,
+"CurrentFlag": 1,
+"rowguid": "1f0e068a-48c5-40bf-8190-565150efdadd",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 98,
+"NationalIIDNumber": "152085091",
+"LoginID": "adventure-works\sameer0",
+"OrganizationNode": "/3/1/9/5/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC50",
+"BirthDate": {
+"Year": 1978,
+"Month": 6,
+"Day": 26
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2009,
+"Month": 2,
+"Day": 11
+},
+"SalariedFlag": 0,
+"VacationHours": 4,
+"SickLeaveHours": 22,
+"CurrentFlag": 1,
+"rowguid": "a703169f-1563-488e-914d-d784fd07f29a",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 99,
+"NationalIIDNumber": "431859843",
+"LoginID": "adventure-works\nuan0",
+"OrganizationNode": "/3/1/9/6/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC50",
+"BirthDate": {
+"Year": 1979,
+"Month": 3,
+"Day": 29
+},
+"MaritalStatus": "S",
+"Gender": "M",
+"HireDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 6
+},
+"SalariedFlag": 0,
+"VacationHours": 2,
+"SickLeaveHours": 21,
+"CurrentFlag": 1,
+"rowguid": "a6089357-2f2f-48cc-ab3c-d9b75a3c09d7",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+},
+{
+"Id": 100,
+"NationalIIDNumber": "204035155",
+"LoginID": "adventure-works\lolan0",
+"OrganizationNode": "/3/1/9/7/",
+"OrganizationLevel": "4",
+"JobTitle": "Production Technician - WC50",
+"BirthDate": {
+"Year": 1973,
+"Month": 1,
+"Day": 24
+},
+"MaritalStatus": "M",
+"Gender": "M",
+"HireDate": {
+"Year": 2009,
+"Month": 1,
+"Day": 12
+},
+"SalariedFlag": 0,
+"VacationHours": 7,
+"SickLeaveHours": 23,
+"CurrentFlag": 1,
+"rowguid": "9b9b768d-7cc1-4dce-87cb-765ab73a6aff",
+"ModifiedDate": {
+"Year": 2014,
+"Month": 6,
+"Day": 30
+}
+}
+]
+}

@@ -1,0 +1,164 @@
+{
+"Deparment": [
+{
+"Id": 1,
+"Name": "Engineering",
+"GroupName": "Research and Development",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 4,
+"Day": 30
+}
+},
+{
+"Id": 2,
+"Name": "Tool Design",
+"GroupName": "Research and Development",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 4,
+"Day": 30
+}
+},
+{
+"Id": 3,
+"Name": "Sales",
+"GroupName": "Sales and Marketing",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 4,
+"Day": 30
+}
+},
+{
+"Id": 4,
+"Name": "Marketing",
+"GroupName": "Sales and Marketing",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 4,
+"Day": 30
+}
+},
+{
+"Id": 5,
+"Name": "Purchasing",
+"GroupName": "Inventory Management",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 4,
+"Day": 30
+}
+},
+{
+"Id": 6,
+"Name": "Research and Development",
+"GroupName": "Research and Development",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 4,
+"Day": 30
+}
+},
+{
+"Id": 7,
+"Name": "Production",
+"GroupName": "Manufacturing",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 4,
+"Day": 30
+}
+},
+{
+"Id": 8,
+"Name": "Production Control",
+"GroupName": "Manufacturing",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 4,
+"Day": 30
+}
+},
+{
+"Id": 9,
+"Name": "Human Resources",
+"GroupName": "Executive General and Administration",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 4,
+"Day": 30
+}
+},
+{
+"Id": 10,
+"Name": "Finance",
+"GroupName": "Executive General and Administration",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 4,
+"Day": 30
+}
+},
+{
+"Id": 11,
+"Name": "Information Services",
+"GroupName": "Executive General and Administration",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 4,
+"Day": 30
+}
+},
+{
+"Id": 12,
+"Name": "Document Control",
+"GroupName": "Quality Assurance",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 4,
+"Day": 30
+}
+},
+{
+"Id": 13,
+"Name": "Quality Assurance",
+"GroupName": "Quality Assurance",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 4,
+"Day": 30
+}
+},
+{
+"Id": 14,
+"Name": "Facilities and Maintenance",
+"GroupName": "Executive General and Administration",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 4,
+"Day": 30
+}
+},
+{
+"Id": 15,
+"Name": "Shipping and Receiving",
+"GroupName": "Inventory Management",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 4,
+"Day": 30
+}
+},
+{
+"Id": 16,
+"Name": "Executive",
+"GroupName": "Executive General and Administration",
+"ModifiedDate": {
+"Year": 2008,
+"Month": 4,
+"Day": 30
+}
+}
+]
+}

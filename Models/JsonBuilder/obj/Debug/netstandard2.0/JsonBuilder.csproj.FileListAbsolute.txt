@@ -1,0 +1,12 @@
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\JsonBuilder\obj\Debug\netstandard2.0\JsonBuilder.csprojAssemblyReference.cache
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\JsonBuilder\obj\Debug\netstandard2.0\JsonBuilder.AssemblyInfoInputs.cache
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\JsonBuilder\obj\Debug\netstandard2.0\JsonBuilder.AssemblyInfo.cs
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\JsonBuilder\bin\Debug\netstandard2.0\JsonBuilder.deps.json
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\JsonBuilder\bin\Debug\netstandard2.0\JsonBuilder.dll
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\JsonBuilder\bin\Debug\netstandard2.0\JsonBuilder.pdb
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\JsonBuilder\bin\Debug\netstandard2.0\DataManager.dll
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\JsonBuilder\bin\Debug\netstandard2.0\DataManager.pdb
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\JsonBuilder\obj\Debug\netstandard2.0\JsonBuilder.csproj.CopyComplete
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\JsonBuilder\obj\Debug\netstandard2.0\JsonBuilder.dll
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\JsonBuilder\obj\Debug\netstandard2.0\JsonBuilder.pdb
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\JsonBuilder\obj\Debug\netstandard2.0\JsonBuilder.csproj.CoreCompileInputs.cache

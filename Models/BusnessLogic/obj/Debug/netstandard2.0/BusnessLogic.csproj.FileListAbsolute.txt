@@ -1,0 +1,14 @@
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\BusnessLogic\bin\Debug\netstandard2.0\BusnessLogic.deps.json
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\BusnessLogic\bin\Debug\netstandard2.0\BusnessLogic.dll
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\BusnessLogic\bin\Debug\netstandard2.0\BusnessLogic.pdb
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\BusnessLogic\bin\Debug\netstandard2.0\DataAccess.dll
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\BusnessLogic\bin\Debug\netstandard2.0\RequestManager.dll
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\BusnessLogic\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\BusnessLogic\bin\Debug\netstandard2.0\RequestManager.pdb
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\BusnessLogic\obj\Debug\netstandard2.0\BusnessLogic.csprojAssemblyReference.cache
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\BusnessLogic\obj\Debug\netstandard2.0\BusnessLogic.AssemblyInfoInputs.cache
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\BusnessLogic\obj\Debug\netstandard2.0\BusnessLogic.AssemblyInfo.cs
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\BusnessLogic\obj\Debug\netstandard2.0\BusnessLogic.csproj.CopyComplete
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\BusnessLogic\obj\Debug\netstandard2.0\BusnessLogic.dll
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\BusnessLogic\obj\Debug\netstandard2.0\BusnessLogic.pdb
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\BusnessLogic\obj\Debug\netstandard2.0\BusnessLogic.csproj.CoreCompileInputs.cache

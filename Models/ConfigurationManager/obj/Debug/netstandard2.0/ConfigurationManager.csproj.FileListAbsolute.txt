@@ -1,0 +1,12 @@
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConfigurationManager\bin\Debug\netstandard2.0\ConfigurationManager.deps.json
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConfigurationManager\bin\Debug\netstandard2.0\ConfigurationManager.dll
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConfigurationManager\bin\Debug\netstandard2.0\ConfigurationManager.pdb
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConfigurationManager\bin\Debug\netstandard2.0\DataManager.dll
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConfigurationManager\bin\Debug\netstandard2.0\DataManager.pdb
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConfigurationManager\obj\Debug\netstandard2.0\ConfigurationManager.csprojAssemblyReference.cache
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConfigurationManager\obj\Debug\netstandard2.0\ConfigurationManager.AssemblyInfoInputs.cache
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConfigurationManager\obj\Debug\netstandard2.0\ConfigurationManager.AssemblyInfo.cs
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConfigurationManager\obj\Debug\netstandard2.0\ConfigurationManager.csproj.CopyComplete
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConfigurationManager\obj\Debug\netstandard2.0\ConfigurationManager.dll
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConfigurationManager\obj\Debug\netstandard2.0\ConfigurationManager.pdb
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConfigurationManager\obj\Debug\netstandard2.0\ConfigurationManager.csproj.CoreCompileInputs.cache
